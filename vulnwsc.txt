@@ -4,6 +4,7 @@ AirLive Wireless Gigabit AP AirLive Wireless Gigabit AP
 Archer_A9 1.0
 Archer A2 5.0
 Archer A5 4.0
+Archer C54 1.0
 Archer C2 1.0
 Archer C2 3.0
 Archer C5 4.0
