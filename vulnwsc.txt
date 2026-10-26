@@ -12,7 +12,6 @@ Archer C6U 1.0.0
 Archer C20 1.0
 Archer C20 4.0
 Archer C20 5.0 
-Archer C20 6.0
 Archer C50 1.0
 Archer C50 3.0
 Archer C50 4.0
